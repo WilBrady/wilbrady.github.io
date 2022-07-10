@@ -1,3 +1,4 @@
+# Wil Brady's Articles of Interest
 The following is a list of articles roughly categorized that may be helpful/beneficial. The [mslibrary](https://microsoft.sharepoint.com/sites/mslibrary/) is a great resource for getting access to more content and access to many journals and services such as the [Harvard Business Review](https://aka.ms/hbr) while on corp net. I tried to rank these articles with a `1`-Great! to `5`-OK rating (I did not even bother adding articles I thought were not helpful).
 
 ## Learn from others - [I.M. Wright’s “Hard Code” – An opinion column for developers. Brutally honest, no pulled punches.](https://imwrightshardcode.com/)
