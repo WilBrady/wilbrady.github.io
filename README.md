@@ -1,7 +1,9 @@
 # Wil Brady's Articles of Interest
 The following is a list of articles roughly categorized that may be helpful/beneficial. The [mslibrary](https://microsoft.sharepoint.com/sites/mslibrary/) is a great resource for getting access to more content and access to many journals and services such as the [Harvard Business Review](https://aka.ms/hbr) while on corp net. I tried to rank these articles with a `1`-Great! to `5`-OK rating (I did not even bother adding articles I thought were not helpful).
 
-## Learn from others - [I.M. Wright’s “Hard Code” – An opinion column for developers. Brutally honest, no pulled punches.](https://imwrightshardcode.com/)
+## Learn from others
+
+[I.M. Wright’s “Hard Code” – An opinion column for developers. Brutally honest, no pulled punches.](https://imwrightshardcode.com/)
 Up until September 2020 ([Fond farewell to Microsoft](https://imwrightshardcode.com/2020/09/fond-farewell-to-microsoft/)), Eric Brechner wrote these articles within Microsoft, and you could get a monthly email from him. Most of these are very Microsoft focused, and throughout my career have come up or been shared. While sometimes his writing is a little harsh, it is honest and insightful. The following are a few that came up in discussions in my past that I thought were worth calling out.
 
 - [Work politics with integrity](https://imwrightshardcode.com/2019/04/work-politics-with-integrity/)
@@ -12,7 +14,8 @@ Up until September 2020 ([Fond farewell to Microsoft](https://imwrightshardcode.
 - [Meaningful versus mundane](https://imwrightshardcode.com/2015/08/meaningful-versus-mundane/) - Project management
 - [Solving the whole problem](https://imwrightshardcode.com/2015/06/solving-the-whole-problem/) - Senior to Principal jump
 
-##Career
+## Career
+
 1 - [All the best engineering advice I stole from non-technical people](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f) _The insights in this article are useful to both ICs and managers. It touches on assumptions, impostor syndrome, collaboration, and more. I liked all the points with my current favorite being "Thinking is also work"._
 
 1 - [Want to Be a High Achiever? Be More Generous](https://www.inc.com/greg-satell/want-to-be-a-high-achiever-be-more-generous.html)
@@ -73,7 +76,7 @@ _Covers the feeling of Guilt and Shame. Guilt can be good because it can motivat
 4 - [How Perfectionists Can Get Out of Their Own Way](https://hbr.org/2018/04/how-perfectionists-can-get-out-of-their-own-way)
 _Some good advice on approaching common perfectionist issues._
 
-##Engineering
+## Engineering
 
 2 - [Empathy-Driven Development: How Engineers Can Tap into This Critical Skill](https://firstround.com/review/empathy-driven-development-how-engineers-can-tap-into-this-critical-skill/)
 Article quotes worth remembering: _"Leaving communication artifacts in your code is an exercise in empathy." "Commit messages, pull requests, naming, tests, error messages, those are all fundamentally about communicating with empathy”, “If there’s anything that working with legacy code has taught me, it’s that code isn’t written in a vacuum; it’s reviewed and revisited constantly._
@@ -81,7 +84,7 @@ Article quotes worth remembering: _"Leaving communication artifacts in your code
 5 - [The Tenets of A/B Testing from Duolingo’s Master Growth Hacker](http://firstround.com/review/the-tenets-of-a-b-testing-from-duolingos-master-growth-hacker/)
 _Interesting for different stages in your product funnel to attract customers. No details on how to implement A/B testing._
 
-##Management
+## Management
 
 [Our 6 Must Reads for First-Time Managers to Hit the Ground Running](http://firstround.com/review/our-6-must-reads-for-first-time-managers-to-hit-the-ground-running/?utm_medium=email)
 _A good collection of articles. I recommend reading one a day so you don't overload._
@@ -117,14 +120,14 @@ _I read this one quickly. It had great ideas about team and company structure, c
 _"All else being equal, the fastest company in any market will win." Interesting article on decision making. Good motivation to keep the product/features moving._
 
 
-###Conflict
+### Conflict
 4 - [How to Handle a Disagreement on Your Team](https://hbr.org/2017/07/how-to-handle-a-disagreement-on-your-team)
 _Good recap on mediating conflict between people but nothing unexpected._
 
 4 - [How to Handle Conflict on Remote Teams](https://www.helpscout.net/blog/remote-team-conflict/)
 _Walks through good steps/approaches for solving your own conflicts and outlines the different forms of communication we use and the drawbacks_
 
-##Life
+## Life
 1 - [A neuroscience researcher reveals 4 rituals that will make you happier](http://www.businessinsider.com/a-neuroscience-researcher-reveals-4-rituals-that-will-make-you-a-happier-person-2015-9)
 _1. What am I grateful for? 2. Label negative emotions. 3. Make decision, and it is fine if it is just good enough. 4. Hugs!_
 
