@@ -1,5 +1,10 @@
 # Wil Brady's Articles of Interest
-The following is a list of articles roughly categorized that may be helpful/beneficial. The [mslibrary](https://microsoft.sharepoint.com/sites/mslibrary/) is a great resource for getting access to more content and access to many journals and services such as the [Harvard Business Review](https://aka.ms/hbr) while on corp net. I tried to rank these articles with a `1`-Great! to `5`-OK rating (I did not even bother adding articles I thought were not helpful).
+I am a Microsoft engineering manager and am gathering articles, roughly categorized, that may be helpful/beneficial for your career. Some resources are only availabe to Microsoft employess as that was my primary audience but most are public links. The [mslibrary](https://microsoft.sharepoint.com/sites/mslibrary/) is a great resource for getting access to more content and access to many journals and services such as the [Harvard Business Review](https://aka.ms/hbr) while on corp net. I tried to rank these articles with a `1`-Great! to `5`-OK rating (I did not even bother adding articles I thought were not helpful).
+
+## Diversity and Inclusion
+Diversity and Inclusion is a core part of Microsoft culture, and I believe vital to any company's success. It is critical to creating a safe and effective team where everyone's thoughts are heard. Listening to a diverse group of people leads to better products and a better bottom line but it takes effort. Diversity is a fact, Inclusion is an act.
+
+2 - [The Value of Belonging at Work](https://hbr.org/2019/12/the-value-of-belonging-at-work) (December 16th 2019) _"If workers feel like they belong, companies reap substantial bottom-line benefits: better job performance, lower turnover risk, and fewer sick days." This articles shares studies on inclusion and exclusion of coworkers and the impact of exclusion, specifically excluded people working less for team benefit. Suggestions for countering inclusion - 1. Gaining perspective, 2. Encouraging Mentorship, 3. Finding empowerment - are discussed. For leaders and managers, "serving as a fair-minded ally — someone who treats everyone equally" can prevent exclusionary behaviors. Being included is critical!_
 
 ## Learn from others
 
@@ -110,6 +115,8 @@ _When re-orgs or charters change, leaders emphasize why the change is good or go
 _Master delegation. Good ideas and quick read._
 
 ### Leadership
+1 - [Why Leaders Can’t Ignore the Human Energy Crisis](https://www.linkedin.com/pulse/why-leaders-cant-ignore-human-energy-crisis-kathleen-hogan/) (Sept. 15th 2022) _Worker energy is critical to success, both our energy and our co-workers. Work has changed since 2020 and hybrid and working from home is now normal but brings new challenges. This article goes through details on worker energy issues and provides six areas to focus to help fuel everyone. I really liked the call out of 'Anne Helen Peterson calls “LARPing your job,”—Live Action Role Playing—looking busy by instantly responding to every IM, holding unnecessary meetings, logging on early and staying late, and more.' as I have done this myself. Definitely worth reading and asking how you can take action to fuel yourself and your team._
+
 1 - [The Better You Know Yourself, the More Resilient You’ll Be](https://hbr.org/2017/09/the-better-you-know-yourself-the-more-resilient-youll-be)
 _Quick to the point read. Understand your strengths so you know where you should push, understand your weaknesses so you know when to reach out for help. Changes are happening all the time today, and strong leaders are resilient and aware of how change affects them and thus their team._
 
