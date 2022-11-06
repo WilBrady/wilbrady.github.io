@@ -4,6 +4,10 @@ I am a Microsoft engineering manager and am gathering articles, roughly categori
 ## Diversity and Inclusion
 Diversity and Inclusion is a core part of Microsoft culture, and I believe vital to any company's success. It is critical to creating a safe and effective team where everyone's thoughts are heard. Listening to a diverse group of people leads to better products and a better bottom line but it takes effort. Diversity is a fact, Inclusion is an act.
 
+I love the [Code Switch](https://www.npr.org/podcasts/510312/codeswitch) podcast from NPR. It covers a wide range of diversity topics while be fun and insightful. I strongly recommend subscribing and listening to past episodes.
+
+I recommend signing up for the [Better Allies 5 Ally Actions newsletter](https://betterallies.com/more-content/). The letter comes every Friday with a quick read of 5 topics. Past issues are available and worth going through. This weekly news letter reminds me to give space for others, promote but don't over introduce, speak up and many more.
+
 2 - [The Value of Belonging at Work](https://hbr.org/2019/12/the-value-of-belonging-at-work) (December 16th 2019) _"If workers feel like they belong, companies reap substantial bottom-line benefits: better job performance, lower turnover risk, and fewer sick days." This articles shares studies on inclusion and exclusion of coworkers and the impact of exclusion, specifically excluded people working less for team benefit. Suggestions for countering inclusion - 1. Gaining perspective, 2. Encouraging Mentorship, 3. Finding empowerment - are discussed. For leaders and managers, "serving as a fair-minded ally — someone who treats everyone equally" can prevent exclusionary behaviors. Being included is critical!_
 
 ## Learn from others
