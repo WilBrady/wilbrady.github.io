@@ -12,6 +12,8 @@ I recommend signing up for the [Better Allies 5 Ally Actions newsletter](https:/
 
 1 - [Visualizing Health Equity: One Size Does Not Fit All Infographics](https://www.rwjf.org/en/library/infographics/visualizing-health-equity.html) (June 30,2017) _If you get confused on equality versus equity, the graphics in the link may help. I really like the last one about crossing a street and dealing with the curb. Thinking about equity and meeting people where they are will help others succeed - customers or employees._
 
+1 - [Tips for Allies of Transgender People](https://glaad.org/transgender/allies) (Updated March 2021 / Adapted from MIT’s “Action Tips for Allies of Trans People.”) _The title says it all. Quick read and a good reminder of the many actions and things to avoid to more inclusive. I especially liked the part on understanding the differences between “coming out” as lesbian, gay, or bisexual and “coming out” as transgender._
+
 2 - [The Value of Belonging at Work](https://hbr.org/2019/12/the-value-of-belonging-at-work) (December 16th 2019) _"If workers feel like they belong, companies reap substantial bottom-line benefits: better job performance, lower turnover risk, and fewer sick days." This article shares studies on inclusion and exclusion of coworkers and the impact of exclusion, specifically excluded people working less for team benefit. Suggestions for countering inclusion - 1. Gaining perspective, 2. Encouraging Mentorship, 3. Finding empowerment - are discussed. For leaders and managers, "serving as a fair-minded ally — someone who treats everyone equally" can prevent exclusionary behaviors. Being included is critical!_
 
 ## Learn from others
