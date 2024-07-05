@@ -125,6 +125,8 @@ _When re-orgs or charters change, leaders emphasize why the change is good or go
 _Master delegation. Good ideas and quick read._
 
 ### Leadership
+1 - [Leadreship on a Submarine](https://www.youtube.com/watch?v=HYXH2XUfhfo) (July 2024) _Short video about empowering your team to make decisions based on intent/goals. This is how I strive to lead but find it challenging to not give orders._
+
 1 - [Why Leaders Can’t Ignore the Human Energy Crisis](https://www.linkedin.com/pulse/why-leaders-cant-ignore-human-energy-crisis-kathleen-hogan/) (Sept. 15th 2022) _Worker energy is critical to success, both our energy and our co-workers. Work has changed since 2020 and hybrid and working from home is now normal but brings new challenges. This article goes through details on worker energy issues and provides six areas to focus to help fuel everyone. I really liked the call out of 'Anne Helen Peterson calls “LARPing your job,”—Live Action Role Playing—looking busy by instantly responding to every IM, holding unnecessary meetings, logging on early and staying late, and more.' as I have done this myself. Definitely worth reading and asking how you can take action to fuel yourself and your team._
 
 1 - [The Better You Know Yourself, the More Resilient You’ll Be](https://hbr.org/2017/09/the-better-you-know-yourself-the-more-resilient-youll-be)
